@@ -1,7 +1,7 @@
-package com.spring.springbootforwardrequest.controller;
+package com.sros.springbootforwardrequest.controller;
 
-import com.spring.springbootforwardrequest.dto.ResponseDTO;
-import com.spring.springbootforwardrequest.service.ForwardService;
+import com.sros.springbootforwardrequest.dto.ResponseDTO;
+import com.sros.springbootforwardrequest.service.ForwardService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpMethod;

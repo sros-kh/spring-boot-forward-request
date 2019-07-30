@@ -1,4 +1,4 @@
-package com.spring.springbootforwardrequest;
+package com.sros.springbootforwardrequest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

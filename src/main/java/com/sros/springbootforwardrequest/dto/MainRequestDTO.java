@@ -1,4 +1,4 @@
-package com.spring.springbootforwardrequest.dto;
+package com.sros.springbootforwardrequest.dto;
 
 import java.util.Map;
 

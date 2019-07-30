@@ -1,4 +1,4 @@
-package com.spring.springbootforwardrequest.dto;
+package com.sros.springbootforwardrequest.dto;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

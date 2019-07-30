@@ -1,6 +1,6 @@
-package com.spring.springbootforwardrequest.service;
+package com.sros.springbootforwardrequest.service;
 
-import com.spring.springbootforwardrequest.dto.ResponseDTO;
+import com.sros.springbootforwardrequest.dto.ResponseDTO;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

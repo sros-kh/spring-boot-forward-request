@@ -1,4 +1,4 @@
-package com.spring.springbootforwardrequest;
+package com.sros.springbootforwardrequest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
